@@ -1,7 +1,7 @@
 /****************************************************************************************************\
   DAVENETS
 
-  Discrete Activity on Very Edifying NETworks
+  Discrete And VErsatile NEtwork Transport Simulation
 
   This is for simulating the activity of agents as they move on a structure that is defined
   by nodes and links. E.g. buses moving along their routes, picking up passengers and
